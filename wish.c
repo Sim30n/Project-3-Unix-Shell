@@ -39,11 +39,6 @@ void wish_path(char **args){
   }
 }
 
-// sisäänrakennettu exit komento
-int wish_exit(char **args){
-  return 0;
-}
-
 // lukee komentorivin funktio
 char *wish_read_line(void){
   char *line = NULL;
@@ -98,7 +93,7 @@ void execArgs(char** args){
       wish_cd(args);
       return;
     } else if (strcmp(args[0], builtin_str[1]) == 0){
-      exit(0);
+      exit(0); // sisäänrakennettu exit komento
       return;
     } else if (strcmp(args[0], builtin_str[2]) == 0){
       wish_path(args);
