@@ -1,0 +1,19 @@
+total 64
+drwxrwxrwt 16 root    root    4096 heinä 24 07:44 .
+drwxr-xr-x 24 root    root    4096 touko  7 16:14 ..
+srwxrwxr-x  1 petteri petteri    0 heinä 24 07:27 atom-1aa5a1a165be.sock
+drwx------  2 petteri petteri 4096 heinä 24 07:27 Atom Crashes
+-rw-------  1 petteri petteri    0 heinä 24 07:26 config-err-4tFcQD
+drwxrwxrwt  2 root    root    4096 heinä 24 07:26 .font-unix
+drwxrwxrwt  2 root    root    4096 heinä 24 07:26 .ICE-unix
+drwx------  2 petteri petteri 4096 heinä 24 07:27 net-export
+drwx------  2 petteri petteri 4096 heinä 24 07:26 ssh-8LZYgFOpYDvV
+drwx------  3 root    root    4096 heinä 24 07:26 systemd-private-fcdef2a56e4d49569c5b6a43f99788a6-bolt.service-0Vlwc7
+drwx------  3 root    root    4096 heinä 24 07:26 systemd-private-fcdef2a56e4d49569c5b6a43f99788a6-colord.service-01fkmn
+drwx------  3 root    root    4096 heinä 24 07:27 systemd-private-fcdef2a56e4d49569c5b6a43f99788a6-fwupd.service-kaU2OO
+drwx------  3 root    root    4096 heinä 24 07:26 systemd-private-fcdef2a56e4d49569c5b6a43f99788a6-ModemManager.service-kZbpqN
+drwx------  3 root    root    4096 heinä 24 07:26 systemd-private-fcdef2a56e4d49569c5b6a43f99788a6-rtkit-daemon.service-OGPw3X
+drwx------  3 root    root    4096 heinä 24 07:26 systemd-private-fcdef2a56e4d49569c5b6a43f99788a6-systemd-resolved.service-GcQaI3
+drwxrwxrwt  2 root    root    4096 heinä 24 07:26 .Test-unix
+drwxrwxrwt  2 root    root    4096 heinä 24 07:26 .X11-unix
+drwxrwxrwt  2 root    root    4096 heinä 24 07:26 .XIM-unix
